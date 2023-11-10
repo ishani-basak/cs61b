@@ -1,1 +1,1 @@
-coursework from cs61b - data structures
+projects from cs61b - data structures
